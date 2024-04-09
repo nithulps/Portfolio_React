@@ -33,7 +33,7 @@ function Home() {
           </div>
         </div>
         <div className='imgContnt'>
-          <img className='imgrs' src="public/Images/bg-img.png" alt="" />
+          <img className='imgrs' src="./Images/bg-img.png" alt="" />
         </div>
       </div>
     </>
