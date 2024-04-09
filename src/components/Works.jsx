@@ -21,16 +21,16 @@ function Works() {
                         <>
                             <div className='cards'>
                                 <a className='card' href="https://appleclones.netlify.app">
-                                    <img className='imgs' src="public/Images/apple.png" alt="" />
+                                    <img className='imgs' src="./Images/apple.png" alt="" />
                                 </a>
                                 <a className='card' href="https://grand-lily-56e85f.netlify.app">
-                                    <img className='imgs' src="public/Images/counterapp.png" alt="" />
+                                    <img className='imgs' src="./Images/counterapp.png" alt="" />
                                 </a>
                                 <a className='card' href="https://quiet-bavarois-06e721.netlify.app">
-                                    <img className='imgs' src="public/Images/strbuks.png" alt="" />
+                                    <img className='imgs' src="./Images/strbuks.png" alt="" />
                                 </a>
                                 <a className='card' href="https://cozy-churros-c1b06b.netlify.app">
-                                    <img className='imgs' src="public/Images/burger.png" alt="" />
+                                    <img className='imgs' src="./Images/burger.png" alt="" />
                                 </a>
                             </div>
                         </>
@@ -38,16 +38,16 @@ function Works() {
                         <>
                             <div className='cards'>
                                 <a className='Dcard' href="https://www.behance.net/gallery/170935215/Redesigned-app-for-booking-hotelsfoodticketsetc">
-                                    <img className='imgs' src="public/Images/TRVL.png" alt="" />
+                                    <img className='imgs' src="./Images/TRVL.png" alt="" />
                                 </a>
                                 <a className='Dcard' href="https://www.behance.net/gallery/174354847/LANDING-PAGE-OF-CYCLE">
-                                    <img className='imgs' src="public/Images/CYCLE.png" alt="" />
+                                    <img className='imgs' src="./Images/CYCLE.png" alt="" />
                                 </a>
                                 <a className='Dcard' href="https://www.behance.net/gallery/174356605/website-for-healthcare">
-                                    <img className='imgs' src="public/Images/HSPTL.png" alt="" />
+                                    <img className='imgs' src="./Images/HSPTL.png" alt="" />
                                 </a>
                                 <a className='Dcard' href="https://www.behance.net/gallery/179436761/payment-app">
-                                    <img className='imgs' src="public/Images/PYMNT.png" alt="" />
+                                    <img className='imgs' src="./Images/PYMNT.png" alt="" />
                                 </a>
 
                             </div>

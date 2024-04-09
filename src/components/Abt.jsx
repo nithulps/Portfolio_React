@@ -5,7 +5,7 @@ function Abt() {
     <>
       <div className='section-one'>
         <div className='secImg'>
-          <img  src="public/Images/img3.png" alt="" />
+          <img  src="./Images/img3.png" alt="" />
           <div className='div'></div>
         </div>
         <div className='secTxt'>
