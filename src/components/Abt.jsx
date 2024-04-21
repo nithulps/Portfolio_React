@@ -18,7 +18,7 @@ function Abt() {
             <li >Full Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</li> <li style={{ color: 'grey' }}>NITHUL PS</li>
           </li>
           <li className='personalInfo'>
-            <li>Age &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</li> <li style={{ color: 'grey' }}>24</li>
+            <li>DOB &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</li> <li style={{ color: 'grey' }}>11/04/1999</li>
           </li>
           <li className='personalInfo'>
             <li>Adress &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: </li><li style={{ color: 'grey' }}>Kozhikode,Kerala</li>

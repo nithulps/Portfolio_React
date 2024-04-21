@@ -10,19 +10,21 @@ function Home() {
       <div className='baground'>
         <div className='txt1'>
           <span className='jobrolee'>WELCOME</span>
-          <div className='autotxt one'>Im <span className='jobrole'><TypeAnimation
-            sequence={[
-              "NITHUL PS",
-              400,
-              "web Designer",
-              400,
-              "Cyber Expert",
-              400,]}
-            wrapper="span"
-            speed={5}
-            repeat={Infinity}></TypeAnimation></span>
+          <div className='autotxt one'>Im <span className='jobrole'>
+            <TypeAnimation
+              sequence={[
+                "NITHUL PS",
+                400,
+                "web Designer",
+                400,
+                "Cyber Expert",
+                400,]}
+              wrapper="span"
+              speed={10}
+              repeat={Infinity}>
+            </TypeAnimation></span>
           </div>
-          <div className='autotxt two '>Designer. Developer. CyberExpert.</div>
+          <div className='autotxt two '>Designer. Developer. Content Creator.</div>
           <div className="icons">
             <FontAwesomeIcon className="iconss" icon={faFacebookF} />
             <FontAwesomeIcon className="iconss" icon={faTwitter} />

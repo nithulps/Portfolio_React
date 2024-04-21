@@ -30,7 +30,7 @@ function Resume() {
             <div className='boox'>
             <h5>2017-2020</h5>
               <h3>BCA</h3>
-              <p> I have Graduated in Batchelor of Computer Application in 2020 from Univercity of Calicut at IHRD Nadhapuram  </p>
+              <p> I have Graduated in Batchelor of Computer Application in 2020 from Univercity of Calicut </p>
             </div>
           </div>
           <div className='box2'>
