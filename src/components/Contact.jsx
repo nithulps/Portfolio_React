@@ -22,7 +22,7 @@ function Contact() {
             <div className='cntctbx'>
               <div><FontAwesomeIcon icon={faEnvelope} size="2xl" /></div>
               <h3>Email</h3>
-              <h5>nithulps4@gmail.com</h5></div>
+              <h5 ><a href="mailto:nithulps4@gmail.com" className='hh'>nithulps4@gmail.com</a></h5></div>
             <div className='cntctbx'>
               <div><FontAwesomeIcon icon={faPhone} size="2xl" /></div>
               <h3>Phone</h3>
@@ -34,7 +34,7 @@ function Contact() {
                 <input placeholder='Name' type="text" id="name" name="name" required />
                 <input placeholder='Email' type="email" id="email" name="email" required />
               </div>
-              <input placeholder='Subject' type="email" id="subject" name="email" required />
+              <input placeholder='Subject' type="text" id="subject" name="text" required />
               <textarea placeholder='your message  here..' id="message" name="message" required></textarea>
               <button className='bbtn' type="submit"><span className='btntxt'>Send Your Message</span></button>
             </form>

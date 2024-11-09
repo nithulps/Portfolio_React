@@ -15,9 +15,9 @@ function Home() {
               sequence={[
                 "NITHUL PS",
                 400,
-                "web Designer",
+                "web Developer",
                 400,
-                "Cyber Expert",
+                "web Designer",
                 400,]}
               wrapper="span"
               speed={10}

@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 function Works() {
 
-    const [show, setShow] = useState(1);
+    const [show, setShow] = useState(0);
     return (
         <>
             <div className='works'>
